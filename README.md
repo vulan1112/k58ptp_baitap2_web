@@ -111,7 +111,9 @@ node "D:\nodejs\nodered\node_modules\node-red\red.js" -u "D:\nodejs\nodered\work
 *download file: https://nssm.cc/release/nssm-2.24.zip
     giải nén được file nssm.exe
     copy nssm.exe vào thư mục `D:\nodejs\nodered\`*
-<img width="1093" height="594" alt="image" src="https://github.com/user-attachments/assets/8550430c-55bf-495c-b5ae-a91bc61fa645" />
+<img width="1099" height="527" alt="image" src="https://github.com/user-attachments/assets/1572e544-f2c3-4ab6-b8b9-115ed80c37c8" />
 
 *tạo file "D:\nodejs\nodered\run-nodered.cmd"*
+<img width="915" height="259" alt="image" src="https://github.com/user-attachments/assets/e6d63aca-9626-49b0-8f06-6727e679e930" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7325fa28-f5bf-4d6a-ac34-102f6799dfb2" />
