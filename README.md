@@ -137,3 +137,13 @@ Tạo csdl trên mssql (sql server 2022)
 <img width="773" height="397" alt="image" src="https://github.com/user-attachments/assets/35064cf0-0265-40f4-b865-7b274fb1c662" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc292909-0084-4126-a67b-de7c10194f94" />
+
+## 2.5.
+
+ *tạo api back-end bằng nodered*
+<img width="1920" height="1074" alt="image" src="https://github.com/user-attachments/assets/1b2468bc-51cd-4497-b9ab-faa62211919c" />
+
+<img width="1920" height="1076" alt="image" src="https://github.com/user-attachments/assets/9256d993-faee-4802-a1ba-5818d85f8545" />
+
+# 2.6.
+
