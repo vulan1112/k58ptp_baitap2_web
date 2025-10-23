@@ -98,5 +98,20 @@ node "D:\nodejs\nodered\node_modules\node-red\red.js" -u "D:\nodejs\nodered\work
 
 ## 2.2.
 
+# Cài đặt nodejs
+<img width="1004" height="850" alt="image" src="https://github.com/user-attachments/assets/fb26cf8e-4519-44bd-8184-887d8aef8f1a" />
 
+<img width="970" height="380" alt="image" src="https://github.com/user-attachments/assets/9edfa6b2-6dcc-442b-9928-158d3d52ac4e" />
+
+# Cài đặt nodered
+
+*chạy cmd, vào thư mục `D:\nodejs`, chạy lệnh `npm install -g --unsafe-perm node-red --prefix "D:\nodejs\nodered"`*
+<img width="966" height="426" alt="image" src="https://github.com/user-attachments/assets/e144a6e2-3675-402a-962e-eabf501f2956" />
+
+*download file: https://nssm.cc/release/nssm-2.24.zip
+    giải nén được file nssm.exe
+    copy nssm.exe vào thư mục `D:\nodejs\nodered\`*
+<img width="1093" height="594" alt="image" src="https://github.com/user-attachments/assets/8550430c-55bf-495c-b5ae-a91bc61fa645" />
+
+*tạo file "D:\nodejs\nodered\run-nodered.cmd"*
 
