@@ -117,3 +117,23 @@ node "D:\nodejs\nodered\node_modules\node-red\red.js" -u "D:\nodejs\nodered\work
 <img width="915" height="259" alt="image" src="https://github.com/user-attachments/assets/e6d63aca-9626-49b0-8f06-6727e679e930" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7325fa28-f5bf-4d6a-ac34-102f6799dfb2" />
+
+## 2.3.
+
+Tạo csdl trên mssql (sql server 2022)
+<img width="1259" height="932" alt="image" src="https://github.com/user-attachments/assets/2f8785a7-fd55-4334-b041-084ddc973d7e" />
+
+## 2.4.
+
+*Cài đặt thư viện trên nodered*
+<img width="689" height="357" alt="image" src="https://github.com/user-attachments/assets/307b676d-191d-446b-b019-f7e3a2d860bb" />
+
+<img width="1920" height="1073" alt="image" src="https://github.com/user-attachments/assets/eb00b8dc-24c0-4148-92bd-1bdb1c490f94" />
+
+* Sửa file `D:\nodejs\nodered\work\settings.js` *
+<img width="922" height="710" alt="image" src="https://github.com/user-attachments/assets/07521ae6-819f-4266-af57-3097ac8d346d" />
+
+*- chạy lại nodered bằng cách: mở cmd, vào thư mục `D:\nodejs\nodered` và chạy lệnh `nssm restart a1-nodered`*
+<img width="773" height="397" alt="image" src="https://github.com/user-attachments/assets/35064cf0-0265-40f4-b865-7b274fb1c662" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc292909-0084-4126-a67b-de7c10194f94" />
