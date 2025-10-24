@@ -145,5 +145,31 @@ Tạo csdl trên mssql (sql server 2022)
 
 <img width="1920" height="1076" alt="image" src="https://github.com/user-attachments/assets/9256d993-faee-4802-a1ba-5818d85f8545" />
 
-# 2.6.
+# 2.6.Tạo giao diện front-end
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff089efa-5768-43e9-a8e9-04649b194078" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/497c12e2-8021-435c-a1af-db2157822bc9" />
+
+# 2.7. Nhận xét bài làm của mình
+Sau khi làm bài em đã hiểu được quy trình cài đặt từng thành phần trong hệ thống web gồm cả phần front-end và back-end:
+
+*Apache Web Server:*
+Em biết cách tải và cấu hình Apache trên Windows, hiểu rõ vai trò của các file cấu hình như httpd.conf và httpd-vhosts.conf, cách tạo domain ảo (fullname.com) thông qua file hosts để website chạy trên địa chỉ riêng.
+Việc tạo thư mục mã nguồn tại D:\Apache24\fullname giúp quản lý file web rõ ràng, dễ triển khai và thử nghiệm.
+
+*Node.js và Node-RED:*
+Em đã biết cách cài Node.js từ bộ cài MSI và thiết lập môi trường để Node-RED chạy ổn định.
+Biết sử dụng công cụ nssm để tạo dịch vụ (service) tự động khởi động Node-RED mỗi khi máy bật.
+Hiểu cách Node-RED đóng vai trò là máy chủ back-end, có nhiệm vụ trung gian giữa cơ sở dữ liệu và giao diện người dùng, cho phép xử lý, truy vấn và trả về kết quả một cách nhanh chóng và trực quan
+
+*Cách front-end tương tác với back-end:*
+Em đã hiểu quy trình tương tác giữa front-end (giao diện web) và back-end (Node-RED API) như sau:
+Người dùng nhập thông tin trên trang web (form HTML).
+JavaScript (fullname.js) sẽ đọc dữ liệu từ form và gửi yêu cầu (request) đến API Node-RED bằng lệnh fetch() thông qua giao thức HTTP.
+Node-RED API nhận yêu cầu, truy vấn dữ liệu từ cơ sở dữ liệu SQL, sau đó trả kết quả lại dưới dạng JSON.
+Front-end nhận JSON và dùng JavaScript để hiển thị dữ liệu kết quả lên trang web.
+Apache server chịu trách nhiệm phân phối file tĩnh (HTML, CSS, JS) đến trình duyệt, trong khi Node-RED xử lý dữ liệu động.
+
+==>>#### Tóm laij: em đã hiểu kiến trúc tổng thể của một hệ thống web gồm: Web server (Apache) – Application server (Node-RED) – Database (SQL Server),
+và đã nắm được cách cài đặt, cấu hình, và kết nối các thành phần hoạt động cùng nhau.
+Hiểu được mối quan hệ giữa front-end, back-end và cơ sở dữ liệu, từ đó có thể tự triển khai các API và giao diện tương tác cơ bản.
