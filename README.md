@@ -131,12 +131,20 @@ Tạo csdl trên mssql (sql server 2022)
 <img width="1920" height="1073" alt="image" src="https://github.com/user-attachments/assets/eb00b8dc-24c0-4148-92bd-1bdb1c490f94" />
 
 * Sửa file `D:\nodejs\nodered\work\settings.js` *
-<img width="922" height="710" alt="image" src="https://github.com/user-attachments/assets/07521ae6-819f-4266-af57-3097ac8d346d" />
-
 *- chạy lại nodered bằng cách: mở cmd, vào thư mục `D:\nodejs\nodered` và chạy lệnh `nssm restart a1-nodered`*
 <img width="773" height="397" alt="image" src="https://github.com/user-attachments/assets/35064cf0-0265-40f4-b865-7b274fb1c662" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc292909-0084-4126-a67b-de7c10194f94" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36849090-08ef-4063-95e0-76f0e219e723" />
+
+<img width="1069" height="537" alt="image" src="https://github.com/user-attachments/assets/6ba7bb95-f6b3-4b52-9206-6996993eb36f" />
+
+<img width="879" height="338" alt="image" src="https://github.com/user-attachments/assets/00aa94db-356b-4394-a8aa-a75c9e61304b" />
+
+<img width="1018" height="613" alt="image" src="https://github.com/user-attachments/assets/cd700ff0-dc33-4c70-95c3-c4361b22682b" />
+
+<img width="1905" height="1075" alt="image" src="https://github.com/user-attachments/assets/877049ce-5d89-4977-96bf-25bcd6106a15" />
 
 ## 2.5.
 
@@ -149,6 +157,8 @@ Tạo csdl trên mssql (sql server 2022)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff089efa-5768-43e9-a8e9-04649b194078" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/497c12e2-8021-435c-a1af-db2157822bc9" />
+
+<img width="1906" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5263d64-e69a-4837-8494-b1f4b1926e04" />
 
 # 2.7. Nhận xét bài làm của mình
 Sau khi làm bài em đã hiểu được quy trình cài đặt từng thành phần trong hệ thống web gồm cả phần front-end và back-end:
